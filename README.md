@@ -1,7 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lenoy Geo Thomas</h1>
 <h3 align="center">A passionate IT student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 -🌱 I’m currently learning <b>Python</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
